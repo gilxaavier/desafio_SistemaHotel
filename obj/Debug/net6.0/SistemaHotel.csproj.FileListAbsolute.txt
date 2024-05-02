@@ -1,0 +1,14 @@
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.AssemblyInfoInputs.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.AssemblyInfo.cs
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.csproj.CoreCompileInputs.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\bin\Debug\net6.0\SistemaHotel.exe
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\bin\Debug\net6.0\SistemaHotel.deps.json
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\bin\Debug\net6.0\SistemaHotel.runtimeconfig.json
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\bin\Debug\net6.0\SistemaHotel.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\bin\Debug\net6.0\SistemaHotel.pdb
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\refint\SistemaHotel.dll
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.pdb
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\SistemaHotel.genruntimeconfig.cache
+C:\Users\gilxa\source\repos\bootcamp DIO\SistemaHotel\obj\Debug\net6.0\ref\SistemaHotel.dll
